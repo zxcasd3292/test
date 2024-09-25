@@ -1,0 +1,28 @@
+iot 프로젝트 5주차 09.25
+
+4주차 휴강으로 온라인 수업함
+
+git bash 로 오픈 >> git 깔아야함
+
+깃 기초 명령어
+- git init >> cctv를 달아줌
+- git status
+- git add "파일명 또는 ."
+- git commit -m "메세지"
+현재 컴퓨터에서 첫 번째 커밋 시도시
+Please tell me who you are 메세지 보면
+git config --global user.name "아이디"
+git config --global user.email "아이디@이메일사이트"
+- git log 
+- git checkout 해시코드7자리 또는 복붙
+- git checkout >> 시간여행 후 원래대로 돌아옴
+- git branch -M main  >> main은 다른 이름으로 바꿀 수 있음
+
+
+
+리눅스 기초 명령어
+- touch 파일명  >> 파일 생성
+- ls  >> 현재 파일들 보임
+- ls -a  >>  숨김파일도 보임
+- pwd  >> 현재 위치 확인
+- cat 파일명  >>  at 
