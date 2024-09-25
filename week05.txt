@@ -3,3 +3,6 @@
 - git remote add origin https://github.com/깃아이디/레파지토리.git
 >> git remote add origin https://github.com/zxcasd3292/test.git
 - git push -u origin main
+
+깃 리눅스 명령어
+- cd ..
