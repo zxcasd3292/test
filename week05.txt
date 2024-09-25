@@ -1,0 +1,5 @@
+5주차 수업 내용
+깃 기초 명령어
+- git remote add origin https://github.com/깃아이디/레파지토리.git
+>> git remote add origin https://github.com/zxcasd3292/test.git
+- git push -u origin main
