@@ -1,0 +1,4 @@
+12 주차 수업내용
+- branch
+- git log 옵션 (--oneline)
+
